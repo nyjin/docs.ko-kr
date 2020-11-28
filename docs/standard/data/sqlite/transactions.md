@@ -1,5 +1,5 @@
 ---
-title: 의
+title: 트랜잭션
 ms.date: 09/08/2020
 description: 트랜잭션을 사용하는 방법을 알아봅니다.
 ms.openlocfilehash: 50c4cd1023eac892cafc3ae4395e9168bd8e9f36
